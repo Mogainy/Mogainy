@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Enock Mokaya 👋
 
-<!--
-**Mogainy/Mogainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PHP & MySQL Developer | Information Technology Student
 
-Here are some ideas to get you started:
+I'm an IT student at Zetech University, Kenya, passionate about building practical web applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Technical Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+- **Backend:** PHP
+- **Database:** MySQL
+- **Development Tools:** VS Code, XAMPP, Git, GitHub
+
+### 🚀 Featured Projects
+
+**1. [Sofa Customization System](https://github.com/Mogainy/sofa-customization-system)**
+
+A furniture customization and ordering platform.
+
+**2. [Hotel Management System](https://github.com/Mogainy/hotel-management-system)**
+
+A restaurant ordering system featuring QR-code menu access, kitchen order management, and waiter dashboards.
+
+**3. [Waste Management System](https://github.com/Mogainy/waste-management-system)**
+
+A waste collection management platform with customer requests, driver assignments, and administrative tracking.
+
+**4. [HECOR Electronics](https://github.com/Mogainy/hecor-electronics)**
+
+An electronics repair booking and product catalog system with administrative management and WhatsApp ordering.
+
+### 📫 Contact
+
+- Email: enockmokaya35@gmail.com
+- GitHub: https://github.com/Mogainy
+
+**Open to learning, collaboration, and remote web development opportunities.**
